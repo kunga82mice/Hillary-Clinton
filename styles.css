@@ -1,0 +1,28 @@
+
+.title {color: pink;
+background-image: url("https://i.ytimg.com/vi/pegZ1w5W9N4/maxresdefault.jpg"
+);}
+img{ height :200px;} 
+
+.votebutton{
+    flex-direction: row;
+    justify-content: center;
+     width: 10000px;   
+    
+    font-size: 20px;
+    background: #0AE2FF;
+    color: green;
+    border-radius: 3px;
+    border: solid white 0px;}   
+
+.vote { flex-direction: row;
+    justify-content: center;
+     width: 10000000000000px;
+    font-size: 20px;
+    background: #0AE2FF;
+    color: yellow;
+    border-radius: 50px;
+    border: solid white 3px;}
+body{background:url("https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png");
+    width: 100000000000px;
+    background-repeat: no-repeat;}
